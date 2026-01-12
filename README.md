@@ -102,6 +102,6 @@ La aplicación utiliza **Chain Ladder** para proyectar mora futura:
 
 ---
 
-**Desarrollado para:** CONMEGA ACE - Credit Management Department  
+**Desarrollado por:** Kanneman, Samuel 
 **Versión:** 1.0  
 **Fecha:** Enero 2026
